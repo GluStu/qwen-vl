@@ -1,0 +1,23 @@
+{
+ "stage": 1,
+ "llm": "Qwen/Qwen2.5-1.5B",
+ "siglip": "google/siglip2-so400m-patch14-384",
+ "dinov2": "vit_large_patch14_dinov2.lvd142m",
+ "data": "blip_laion_cc_sbu_558k.json",
+ "image_root": "./images",
+ "out": "out/stage1",
+ "init_ckpt": null,
+ "train_vit": false,
+ "lora": 0,
+ "grad_ckpt": true,
+ "bs": 8,
+ "grad_accum": 8,
+ "epochs": 1,
+ "max_steps": -1,
+ "lr": null,
+ "vit_lr": 2e-05,
+ "warmup": 100,
+ "max_len": 1024,
+ "workers": 4,
+ "save_every": 1000
+}
