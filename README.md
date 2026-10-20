@@ -30,7 +30,7 @@ region and `<box>(x1,y1),(x2,y2)</box>` gives coordinates normalised to `[0, 100
 ## Installation
 
 ```bash
-git clone https://github.com/GluStu/qwenvl-siglip && cd qwenvl-siglip
+git clone https://github.com/GluStu/qwen-vl && cd qwen-vl
 uv sync --all-extras          # or: pip install -e ".[all]"
 ```
 
