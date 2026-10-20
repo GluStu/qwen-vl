@@ -1,0 +1,53 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "qwenvl-siglip"
+version = "0.1.0"
+description = "A compact Qwen-VL-style vision-language model: SigLIP2 (+DINOv2) encoders, a position-aware cross-attention resampler and a Qwen2.5 LLM."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Sanchit Bokade" }]
+keywords = ["vision-language", "multimodal", "VLM", "Qwen-VL", "SigLIP", "DINOv2"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+  "torch>=2.3",
+  "torchvision",
+  "transformers>=4.56",
+  "pillow",
+  "numpy",
+]
+
+[project.optional-dependencies]
+dino = ["timm>=1.0.9"]               # DINOv2 encoder
+lora = ["peft>=0.12"]                # LoRA for stages 2/3
+eval = ["pycocoevalcap"]             # caption metrics
+dev  = ["pytest>=8", "ruff>=0.5"]
+all  = ["qwenvl-siglip[dino,lora,eval]"]
+
+[project.scripts]
+qvl-train         = "qwenvl_siglip.cli.train:main"
+qvl-infer         = "qwenvl_siglip.cli.infer:main"
+qvl-eval-captions = "qwenvl_siglip.cli.eval_captions:main"
+qvl-prepare-coco  = "qwenvl_siglip.cli.prepare_coco:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/qwenvl_siglip"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 110
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

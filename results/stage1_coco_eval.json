@@ -1,0 +1,2020 @@
+{
+ "metrics": {
+  "BLEU-1": 0.7310924369744285,
+  "BLEU-4": 0.287940042091957,
+  "ROUGE-L": 0.5345131231982229,
+  "CIDEr": 1.2033923088955512,
+  "unique_caption_ratio": 0.965,
+  "avg_words": 10.115
+ },
+ "predictions": {
+  "val2017/000000002473.jpg": {
+   "pred": "A skier is doing a trick in the air.",
+   "refs": [
+    "A man flying through the air while riding skis.",
+    "A skier is jumping while other skiers watch.",
+    "a person on skis is doing a twist during a jump",
+    "A person in skis flies in the air from doing a trick.",
+    "a snow skier is doing an aerial trick"
+   ]
+  },
+  "val2017/000000005037.jpg": {
+   "pred": "A bus is parked in front of a building.",
+   "refs": [
+    "A passenger bus pulling up to the side of a street.",
+    "A bus sitting still on the side of the road.",
+    "A bus that is sitting on the street.",
+    "A bus is traveling down the city street.",
+    "a bus stops to pick up some passengers"
+   ]
+  },
+  "val2017/000000009448.jpg": {
+   "pred": "A little girl with a red umbrella in her hand.",
+   "refs": [
+    "A little girl holds up a big blue umbrella.",
+    "a young girl stands with her arms wrapped around a large blue umbrella",
+    "A girl in a pink shirt holding a blue umbrella.",
+    "A little girl who is holding an umbrella.",
+    "A little girl with a big, blue umbrella"
+   ]
+  },
+  "val2017/000000014007.jpg": {
+   "pred": "A cat is looking at a refrigerator in a kitchen.",
+   "refs": [
+    "A cat stands on top of a blue electric device.",
+    "a cat sitting on top of a blue refrigerator",
+    "A dark colored cat that has a collar on it, sitting o the top of a blue refrigerator.",
+    "A brown colored cat is on top of a tall gray cabinet.",
+    "A gray cat standing on the top of a refrigerator."
+   ]
+  },
+  "val2017/000000015272.jpg": {
+   "pred": "A group of traffic lights in a city.",
+   "refs": [
+    "A red light is a wonderful contrast to the pink leaves on trees",
+    "A stoplight that has turned red on a road lined with trees that are in bloom.",
+    "A traffic light in front of trees with white blossoms.",
+    "a beautiful red bud tree full of flowers under a stop light",
+    "A traffic light hanging in front of blossoming trees."
+   ]
+  },
+  "val2017/000000015338.jpg": {
+   "pred": "A bus and a train are parked in front of a building.",
+   "refs": [
+    "A yellow bus is on a street near a black guard rail.",
+    "The passenger buses are travelling down the road.",
+    "City buses on a city street in the dawn hours.",
+    "A yellow bus driving down a street next to a ball building.",
+    "a yellow bus and a white bus on a empty road"
+   ]
+  },
+  "val2017/000000017714.jpg": {
+   "pred": "A plate of food on a table with a glass of water.",
+   "refs": [
+    "Food on a train with a pie and some vegetable",
+    "A banana frittata next to a plate of decoratively cut fruit and a cup of coffee.",
+    "a plate of fruit sitting next to another plate of food on a table",
+    "Breakfast on a tray consisting of coffee, crepe, and artistically sliced fruit.",
+    "A table that has plates of food, cups, and silver ware on it."
+   ]
+  },
+  "val2017/000000023230.jpg": {
+   "pred": "Two birds are swimming in a lake.",
+   "refs": [
+    "A family of swans swimming on top of a lake.",
+    "A group of geese swimming in water near a wooded area.",
+    "Four geese floating in the middle of a river.",
+    "ducks in a body of water with trees in the background",
+    "A gaggle of geese swim in a body of water."
+   ]
+  },
+  "val2017/000000025394.jpg": {
+   "pred": "A man holding a bottle of wine and a glass.",
+   "refs": [
+    "Bartender opening a bottle of wine while patron waits patiently",
+    "A bartender opening a bottle with a rag.",
+    "Hey man that is opening up a bottle of wine.",
+    "A young man serving wine at a bar.",
+    "A bartender opens a wine bottle with a towel."
+   ]
+  },
+  "val2017/000000038048.jpg": {
+   "pred": "A fire hydrant on a street with a sign.",
+   "refs": [
+    "A red fire hydrant on a city sidewalk.",
+    "A diminutive fire hydrant rising though a suburban sidewalk.",
+    "A red fire hydrant embedded in a city sidewalk.",
+    "The red and white fire hydrant is embedded in the street.",
+    "A red fire hydrant is on the sidewalk next to a sign."
+   ]
+  },
+  "val2017/000000038825.jpg": {
+   "pred": "Two zebras eating grass in a field.",
+   "refs": [
+    "Two Zebras grazing together in a grassy area.",
+    "A pair of zebras stand together and eat grass.",
+    "A pair of zebra graze near a barbed wire fence.",
+    "a couple of zebras graze on some grass",
+    "Two black and white zebras standing next to each other while grazing on grass."
+   ]
+  },
+  "val2017/000000039477.jpg": {
+   "pred": "A living room with a couch, a table, and a television.",
+   "refs": [
+    "Someones living room with a sewing machine and plants.",
+    "A cozy living room with small potted plants and a flat screen.",
+    "Room with sofa, sewing machine, and potted plants.",
+    "A beach towel covers a TV across from plants on the wall and in front of the window.",
+    "A small room with a futon couch, a sewing machine on a table, and a flatscreen TV."
+   ]
+  },
+  "val2017/000000043737.jpg": {
+   "pred": "A clock tower in the middle of a city street.",
+   "refs": [
+    "A photograph of a sidewalk covered in snow.",
+    "A metal clock tower on a sidewalk in front of a bulding.",
+    "A snow covered  city street lined with small shops",
+    "A grandfather clock marks an elegant starting position for visiting shops.",
+    "Regular small town street after it has snowed."
+   ]
+  },
+  "val2017/000000050896.jpg": {
+   "pred": "A bowl of oranges with a spoon in it.",
+   "refs": [
+    "A bowl filled with lots of oranges on a counter.",
+    "This is a clear bowl that is filled with oranges.",
+    "A bowl that has some oranges in it.",
+    "a big bowl of oranges that is on the floor",
+    "There is a big bowl of oranges on the counter."
+   ]
+  },
+  "val2017/000000051309.jpg": {
+   "pred": "A group of horses standing in a field.",
+   "refs": [
+    "Small horse standing behind a large group of horses eating.",
+    "Three large horses eating hay while a small horse stands behind.",
+    "A group of horses and a baby horse eat hay at a farm.",
+    "A group of horses gathered around eating hay.",
+    "A group of horses gathered around a feeder"
+   ]
+  },
+  "val2017/000000055150.jpg": {
+   "pred": "A child and a toddler are sitting in a car.",
+   "refs": [
+    "Two children smiling on top of luggage in parking lot",
+    "Two little children on stroller in a parking lot.",
+    "Two children in a stroller among cars in a rental lot.",
+    "Two children sit atop their parent's luggage in the parking lot.",
+    "Two kids sitting in a luggage cart together"
+   ]
+  },
+  "val2017/000000056545.jpg": {
+   "pred": "A bird perched on a branch in a tree.",
+   "refs": [
+    "A gray bird is standing on small brown branch.",
+    "There is a bird sitting on a tree branch.",
+    "There is a bird perched on the tree branch.",
+    "The bird is sitting on the small branch of the tree.",
+    "A bird is perched on a twig in the trees."
+   ]
+  },
+  "val2017/000000060507.jpg": {
+   "pred": "A baseball player is swinging a bat at a baseball.",
+   "refs": [
+    "A batter at a game playing in a baseball game.",
+    "A baseball player hitting a baseball into the air.",
+    "A batter swings at a pitch during a baseball game.",
+    "there is a baseball player that has just hit the ball",
+    "Player hits ball during major league game at stadium."
+   ]
+  },
+  "val2017/000000066135.jpg": {
+   "pred": "A train is sitting on a train track.",
+   "refs": [
+    "An old yellow train is waiting at the station.",
+    "A train comes to a stop on the tracks next to the sidewalk.",
+    "a yellow train parked on the track next to a platform",
+    "A train at the station with no passengers around.",
+    "a long yellow train that is on a train track"
+   ]
+  },
+  "val2017/000000066706.jpg": {
+   "pred": "A plate of food with a cup of coffee and a cup of tea.",
+   "refs": [
+    "A plate topped with banana slice covered pan cakes.",
+    "A scrapbook lays open next to food and a drink.",
+    "A cappuccino with a plate of banana slices on bread.",
+    "a table that has a plate of food on it",
+    "A meal, coffee, pictures and a notebook on a table."
+   ]
+  },
+  "val2017/000000068078.jpg": {
+   "pred": "A dog is sitting on the floor of a bathroom.",
+   "refs": [
+    "A dog in a small bathroom with an orange shower curtain.",
+    "A dog that is standing on a rug in a bathroom.",
+    "A small dug stands on a white rug in the bathroom.",
+    "The dog was standing in the bathroom near the sink and toilet.",
+    "A puppy sitting on the ground in a bathroom"
+   ]
+  },
+  "val2017/000000068093.jpg": {
+   "pred": "A man and woman standing next to a motorcycle.",
+   "refs": [
+    "A  pair of people sitting on a motorcycle, in the grass.",
+    "Two people posing together outside with their motorcycle.",
+    "A woman is sitting on the passenger seat of a motorcycle.",
+    "A middle-aged couple in motorcycle helmets show off their red motorcycle.",
+    "An older couple with helmets preparing to go on a motorcycle ride."
+   ]
+  },
+  "val2017/000000069213.jpg": {
+   "pred": "Two men in suits standing in front of a building.",
+   "refs": [
+    "Two men wearing suits and hats are walking together.",
+    "Two men in blazers and fedoras with a moped in the background.",
+    "Two men who are wearing suits and hats standing next to each other.",
+    "two men wearing hats standing next to each other",
+    "Two men are dressed in blazers and hats in a rural village area."
+   ]
+  },
+  "val2017/000000073153.jpg": {
+   "pred": "A man is standing in a field with a phone in his hand.",
+   "refs": [
+    "A person talking on a phone with a tree in the foreground.",
+    "A close up of bark on a tree with a young man on a cell phone in the background",
+    "A man standing with a cell phone by a tree.",
+    "a person standing in a forest using a cell phone.",
+    "The tree bark in the foreground is clear while the person in the background is blurry."
+   ]
+  },
+  "val2017/000000074646.jpg": {
+   "pred": "A man and woman are flying a kite on the beach.",
+   "refs": [
+    "People flying kites on a sandy beach while a bucket sits in the sand.",
+    "Two people standing on a beach flying a kite.",
+    "a group of people walk on a beach",
+    "A MAN AND WOMAN WALKING THE BEACH WITH A KITE",
+    "A beach area that has people on the sand and one person flying a kite overhead."
+   ]
+  },
+  "val2017/000000076468.jpg": {
+   "pred": "Two women playing tennis on a court.",
+   "refs": [
+    "Two tennis players shaking hands on the court",
+    "to black women tennis players shake hands on court",
+    "two tennis players on a court with rackets",
+    "Twp people shaking hands on a tennis court.",
+    "Two women playing tennis in a stadium with a grass court."
+   ]
+  },
+  "val2017/000000079969.jpg": {
+   "pred": "A tennis player is about to hit a tennis ball.",
+   "refs": [
+    "a tennis player hitting a serve on a court",
+    "A tennis player jumps and stretches to return the ball.",
+    "A man swinging a tennis racquet on a court.",
+    "The man is playing a game of tennis on the court.",
+    "A man jumping into the air on a tennis court."
+   ]
+  },
+  "val2017/000000082085.jpg": {
+   "pred": "A train is passing by a group of people.",
+   "refs": [
+    "a train that is on a rail road track",
+    "a large blue train is coming down some tracks",
+    "A brightly colored train is stopped on the tracks to let passengers on.",
+    "A man stands near a passenger train holding a flag.",
+    "A gentleman is waving a flag at people passing by in a train."
+   ]
+  },
+  "val2017/000000082180.jpg": {
+   "pred": "Two stuffed animals sitting on a bench.",
+   "refs": [
+    "A teddy bear and a stuffed raccoon sitting on a faded wooden outdoor chair.",
+    "Two stuffed teddy bears sitting on a wooden chair in a yard.",
+    "Two stuffed animals are sitting on a broken wooden chair.",
+    "Two stuffed animals in a wooden outdoor chair.",
+    "Two little bears sitting on a weathered wood chair."
+   ]
+  },
+  "val2017/000000088250.jpg": {
+   "pred": "Two elephants are standing in the grass.",
+   "refs": [
+    "Two elephants with their trunks attached to each other",
+    "two elephants holding their trunks together like they were hugging",
+    "Two elephants locking noses on a dirt surface.",
+    "A couple of baby elephants snugging trunks while standing on a  dirt field..",
+    "these two elephants look like they are fighting"
+   ]
+  },
+  "val2017/000000090284.jpg": {
+   "pred": "A woman in a red dress is about to hit a tennis ball.",
+   "refs": [
+    "a woman is striking a ball with a racket",
+    "A woman is standing on a tennis court with a racket.",
+    "A young lady swinging a tennis racquet on top of a tennis court.",
+    "Woman playing in a tennis match in a tennis court.",
+    "A woman leans forward while swinging a tennis racket."
+   ]
+  },
+  "val2017/000000091500.jpg": {
+   "pred": "Two men playing a video game on a console.",
+   "refs": [
+    "The two teens are playing video games in the rec center.",
+    "two people sitting in chairs playing nintendo wii",
+    "Two men are sitting in chairs, playing a video game.",
+    "Two kids hanging out playing video games on folding chairs.",
+    "Two boys sit on chairs and play video games."
+   ]
+  },
+  "val2017/000000098392.jpg": {
+   "pred": "A clock tower on a busy street with cars passing by.",
+   "refs": [
+    "A large clock tower in the middle of a street.",
+    "A double decker bus makes its way past a tall clock tower.",
+    "A downtown clock tower at the intersection of a busy street.",
+    "A photo of a busy intersection with a bus, several cars and a clock tower.",
+    "An elaborate lamp post clock in a traffic circle"
+   ]
+  },
+  "val2017/000000098853.jpg": {
+   "pred": "A tennis player is about to hit a tennis ball.",
+   "refs": [
+    "A man playing a game of tennis on a tennis court.",
+    "A tennis player in the air after a play in a tennis court.",
+    "a pro tennis player playing a game",
+    "A tennis player is leaping off of the ground.",
+    "There is a man hitting a tennis ball."
+   ]
+  },
+  "val2017/000000099242.jpg": {
+   "pred": "A man in a white shirt and black pants is skiing down a hill.",
+   "refs": [
+    "A person skiing in an open area of snow.",
+    "An older man is skiing down a snowy mountain.",
+    "An older man downhill skiing down a slope.",
+    "A man skiing down a snowy hill alone.",
+    "a man wearing ski equipment on a snowy slope"
+   ]
+  },
+  "val2017/000000106757.jpg": {
+   "pred": "A woman is standing next to an elephant.",
+   "refs": [
+    "A actress standing near an elephant on a sunny day.",
+    "An older woman is talking in front of an elephant.",
+    "The woman is looking at the elephant in amazement.",
+    "A woman standing behind a fence looking at an elephant.",
+    "an old woman standing besides an elephant smiling"
+   ]
+  },
+  "val2017/000000107851.jpg": {
+   "pred": "A group of people riding on elephants in a forest.",
+   "refs": [
+    "A group of people walking through a field under the sun.",
+    "A large group of people riding elephants through the brush.",
+    "Several groups of people riding on the back of elephants.",
+    "A group of people taking a ride on a group of elephants.",
+    "Groups of people riding on the backs of elephants."
+   ]
+  },
+  "val2017/000000111207.jpg": {
+   "pred": "A skateboarder is riding a skateboard on a ramp.",
+   "refs": [
+    "Two pictures of a guy with a black shirt and hat on with a skateboard.",
+    "Two photographs of a man in black shirt riding a skateboard.",
+    "a male skateboarder in a black shirt doing a trick",
+    "A man who is performing tricks on a skateboard.",
+    "Two snapshots of a skate boarder doing stunts in an open area"
+   ]
+  },
+  "val2017/000000112298.jpg": {
+   "pred": "A man is holding a tennis racket in front of a mirror.",
+   "refs": [
+    "The man holds a ping pong paddle under the shelf on a wall.",
+    "A young man standing below a shelf full of odds and ends.",
+    "A man is lifting a dumbbell weight with one hand.",
+    "A person standing in a room near a tennis racket.",
+    "A man with a paddle underneath a shelf."
+   ]
+  },
+  "val2017/000000116479.jpg": {
+   "pred": "A bedroom with a bed and a window.",
+   "refs": [
+    "An old victorian style bed frame in a bedroom.",
+    "A bed in a bedroom with a white covering next to a doorway.",
+    "A canopy bed with white see through curtains.",
+    "a white bed and a ceiling fan light",
+    "A poster bed with canopy in a room."
+   ]
+  },
+  "val2017/000000122046.jpg": {
+   "pred": "A woman sitting on a bench with an umbrella.",
+   "refs": [
+    "A woman is sitting in a chair with an umbrella.",
+    "A girl with an umbrella in a chair",
+    "a young Asian woman model sitting on a folding chair in a sleeveless dress, high heels and holding an umbrella",
+    "A woman sitting on chair holding an umbrella.",
+    "A woman poses for a photo as she sits on a chair with an umbrella"
+   ]
+  },
+  "val2017/000000127517.jpg": {
+   "pred": "A group of surfboards are displayed on a beach.",
+   "refs": [
+    "A row of surfboards sticking out of the sand sitting next to each other.",
+    "a row of surf boards placed in the sand",
+    "Several surfboards standing in a row on the beach",
+    "A row of surfboards leaned up against a wood rail in the sand.",
+    "Many surfboards are propped against a rail on the beach."
+   ]
+  },
+  "val2017/000000130613.jpg": {
+   "pred": "A plate of food with three pieces of meat on it.",
+   "refs": [
+    "Three fish and vegetables on a silver tray.",
+    "A tray of fish, with a side of vegetables.",
+    "A picture of cooked fish in a tray.",
+    "A foil plate holding fried fish and vegetables.",
+    "A plate with sardines, carrots, green beans and potatoes."
+   ]
+  },
+  "val2017/000000131131.jpg": {
+   "pred": "A cat is sitting on a couch in front of a television.",
+   "refs": [
+    "A cat sitting in front of a large computer monitor.",
+    "A kitten is trying to interact with a kitten that is on television.",
+    "A cat curiously looks at a photo of a cat on a computer screen",
+    "A cat looking at another cat on the television.",
+    "A cat sitting in front of a monitor that is displaying a picture of another cat."
+   ]
+  },
+  "val2017/000000133631.jpg": {
+   "pred": "An elephant standing in a field with a fence in the background.",
+   "refs": [
+    "The old, adult elephant stands near a wire fence.",
+    "An elephant standing next to an electric fence",
+    "An elephant at a zoo on a sunny day",
+    "A picture of an elephant in a zoo enclosure.",
+    "An elephant standing inside of a dirt pen."
+   ]
+  },
+  "val2017/000000133969.jpg": {
+   "pred": "A baseball player swinging a bat at a baseball.",
+   "refs": [
+    "some baseballs players watching a batter at home plate",
+    "Batter taking swing at ball at home plate during sanctioned game.",
+    "A group of men on a field playing baseball.",
+    "An athlete is performing on a sports field.",
+    "some baseball players a batter catcher and an umpire"
+   ]
+  },
+  "val2017/000000140203.jpg": {
+   "pred": "A truck with a bus on top of it.",
+   "refs": [
+    "A vehicle displays a customized license plate and milk advertisements.",
+    "A white milk truck with a license plate that reads \"pro milk.\"",
+    "A woman carrying her dog on a busy city street.",
+    "a woman holding a dog and a truck",
+    "woman is walking with a dog in her hands"
+   ]
+  },
+  "val2017/000000140583.jpg": {
+   "pred": "A herd of sheep are walking down a road.",
+   "refs": [
+    "A group of donkeys on the side of the road.",
+    "A group of animals that are walking down the road.",
+    "A flock of animals stand on the road near mountains.",
+    "A herd of animals on the side of the road.",
+    "A herd of sheep with two sherds moving down a road in the mountains."
+   ]
+  },
+  "val2017/000000142620.jpg": {
+   "pred": "A man is sitting at a table with a plate of food.",
+   "refs": [
+    "A man that is  sitting down on a bench in front of a table.",
+    "a man that is sitting in front of a picnic table",
+    "A man sitting at a table outside eating a meal.",
+    "A man eating out on a table and bench.",
+    "The man is sitting outside with food on the table."
+   ]
+  },
+  "val2017/000000145591.jpg": {
+   "pred": "A clock on a building with a clock tower.",
+   "refs": [
+    "THERE IS A CLOCK THAT IS ON DISPLAY IN THE CITY",
+    "A clock is next to palm trees and a high rise.",
+    "The clock behind glass has roman numeral for numbers.",
+    "There is a large clock in the foreground and a large building in the background.",
+    "A clock that is on the top of a pole."
+   ]
+  },
+  "val2017/000000146831.jpg": {
+   "pred": "A girl on a skateboard is jumping over a rail.",
+   "refs": [
+    "A person is riding a skateboard on a curved ramp.",
+    "A skateboarded is going up a jump with their skateboard.",
+    "The kid is on a skateboard and on a ramp.",
+    "a person that is standing on a skateboard",
+    "Someone riding a skateboard is going up the ramp."
+   ]
+  },
+  "val2017/000000154425.jpg": {
+   "pred": "A boy in a red shirt is flying a kite.",
+   "refs": [
+    "A small boy trying to fly a small kite",
+    "A young boy flying a colorful kite on top of a sidewalk.",
+    "A young boy gets ready to fly a kite.",
+    "A boy with a kite is standing on a sidewalk.",
+    "A boy holding a kite while standing on a sidewalk."
+   ]
+  },
+  "val2017/000000154431.jpg": {
+   "pred": "A television is sitting on a shelf in a room.",
+   "refs": [
+    "A view of a TV and a statue laying on the ground, next to a window.",
+    "a statue of a bodt stting on a cart with wheels",
+    "There is a statue of a body in the room.",
+    "A black sculpture of a torso is on the floor next to a TV.",
+    "A living room with TV and entertainment center beside a sculpture of a torso."
+   ]
+  },
+  "val2017/000000156071.jpg": {
+   "pred": "A man is riding a horse while a dog runs in front of him.",
+   "refs": [
+    "A group of people standing around at a rodeo.",
+    "A rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.",
+    "A contestant has caught a sheep during a rodeo event.",
+    "We are looking through the bars of a fence into a rodeo arena.",
+    "A young child mutton busting at a rodeo event"
+   ]
+  },
+  "val2017/000000156278.jpg": {
+   "pred": "A kitchen with a sink, stove, and a refrigerator.",
+   "refs": [
+    "a massive variety of pots and other objects are displayed along a long kitchen counter with a sink and a clock on the wall.",
+    "The shelves in a kitchen are covered with pans.",
+    "Busy kitchen in residential home with cabinets and wooden table.",
+    "some pots and pans a clock a sink  and some cabinets",
+    "a kitchen with a countertop and talbe with open cabinets"
+   ]
+  },
+  "val2017/000000157098.jpg": {
+   "pred": "Two giraffes standing in a grassy area.",
+   "refs": [
+    "Three giraffes standing up in a field eating leaves off of trees.",
+    "Two giraffes make contact while a third eats from a tree.",
+    "Three giraffes are in an enclosure with heads in the air.",
+    "Three giraffe's in a green grassy tree filled area.",
+    "Three giraffes on a green field with sand, rocks and trees"
+   ]
+  },
+  "val2017/000000159977.jpg": {
+   "pred": "A giraffe and a zebra are standing in a grassy field.",
+   "refs": [
+    "A giraffe and a zebra checking each other out.",
+    "A giraffe and a zebra are on a grassy field by the water.",
+    "A giraffe and a zebra walking through an African plain.",
+    "A giraffe looks down at a zebra on the field",
+    "a zebra and a giraffe in the wild"
+   ]
+  },
+  "val2017/000000161781.jpg": {
+   "pred": "A woman in a red jacket is skiing down a hill.",
+   "refs": [
+    "A woman in gear skiing down a snowy slope",
+    "A woman in grey and green bodysuit skiing on a slope.",
+    "A person riding skis down a hill on a race course.",
+    "the lady is coming down the hill on her skies.",
+    "A woman is skiing down a hill with safety netting."
+   ]
+  },
+  "val2017/000000163118.jpg": {
+   "pred": "Two men playing a game of Frisbee on a basketball court.",
+   "refs": [
+    "two people jumping up to try to catch a frisbee",
+    "Two guys leap for the Frisbee as they play their game in some sort of a gym.",
+    "The two men are jumping to get the frisbee.",
+    "Two young men playing a game of frisbee.",
+    "Two men playing frisbe on an indoor court."
+   ]
+  },
+  "val2017/000000165351.jpg": {
+   "pred": "A plate of food with a banana and a strawberry on it.",
+   "refs": [
+    "Sliced bananas sit on top of a pastry dish on a plate.",
+    "A food that is topped with bananas and a brown sauce.",
+    "odd meal on a plate with bananas and gravy",
+    "The desert is made and ready to be eaten.",
+    "Blueberry pancakes with slices bananas and glaze on top."
+   ]
+  },
+  "val2017/000000166277.jpg": {
+   "pred": "A cat drinking from a glass of water.",
+   "refs": [
+    "A cat drinking out of a glass on top of a table.",
+    "a cat stands on a table drinking water out of a glass",
+    "A cat drinking ice water out of a glass.",
+    "A grey colored cat that is drinking from a glass of water.",
+    "A cat is drinking something from a glass."
+   ]
+  },
+  "val2017/000000167540.jpg": {
+   "pred": "A plane flying in the sky with a blue sky behind it.",
+   "refs": [
+    "An airplane flying in a cloudy blue sky.",
+    "A small engine plane flying over in the blue sky.",
+    "A plane flying through a clear blue sky.",
+    "an airplane flying overhead in a blue sky",
+    "The underside white and blue plane in sky."
+   ]
+  },
+  "val2017/000000171050.jpg": {
+   "pred": "A fire hydrant is sitting on a street corner.",
+   "refs": [
+    "A brown and gold fire hydrant in front of a brick building.",
+    "A fire hydrant sits in front of a brick building",
+    "The subject of this photo is a fire plug on a city street.",
+    "A fire hydrant on a side walk in front of a building.",
+    "A fire hydrant across from a red bricked building."
+   ]
+  },
+  "val2017/000000173091.jpg": {
+   "pred": "A sandwich and a bottle of water on a table.",
+   "refs": [
+    "A simple lunch includes a coffee drink, fruit and a sandwich wrap.",
+    "A sandwich, a piece if fruit and a Starbucks drink sits on the counter.",
+    "A sandwich, donut and drink on a table.",
+    "A carryout lunch including sandwich, fruit, and frappucino.",
+    "The sandwich in the container is next to a glass of coffee."
+   ]
+  },
+  "val2017/000000177213.jpg": {
+   "pred": "A pizza sitting on a plate with a fork and knife.",
+   "refs": [
+    "Small pizza sits on a plate on a restaurant table.",
+    "A pizza sitting on top of a white plate on a kitchen table.",
+    "A close up of a cheese pizza on a plate.",
+    "A small uneaten pizza on a plate sits on a table.",
+    "Plate with pizza, knife and fork laying on edge of plate with two glasses next to them."
+   ]
+  },
+  "val2017/000000177935.jpg": {
+   "pred": "A kitchen with a stove and a microwave.",
+   "refs": [
+    "A large white kitchen range with gold towels on the front.",
+    "A white double kitchen stove with raised burners.",
+    "A white stove in a very small kitchen.",
+    "A kitchen has a vintage gas range and yellow walls.",
+    "an old fashion double oven cook stove with a griddle"
+   ]
+  },
+  "val2017/000000179487.jpg": {
+   "pred": "A woman in a white shirt and blue shorts is playing tennis.",
+   "refs": [
+    "A woman tennis player is about to return the ball.",
+    "A woman hitting a tennis ball with her knees bent.",
+    "a woman playing tennis and others watching her",
+    "The woman is on the court playing a game of tennis.",
+    "A woman player is squatted down playing tennis."
+   ]
+  },
+  "val2017/000000182417.jpg": {
+   "pred": "A plate with a cake on it and a fork on it.",
+   "refs": [
+    "A beautiful dessert waiting to be shared by two people",
+    "There is a piece of cake on a plate with decorations on it.",
+    "Creamy cheesecake dessert with whip cream and caramel.",
+    "An extravagant dessert on a plate overlooking the water.",
+    "This is a picture of an extremely fancy desert."
+   ]
+  },
+  "val2017/000000200421.jpg": {
+   "pred": "A young boy holding a tennis racket and a tennis ball.",
+   "refs": [
+    "A boy in birthday hat holding a tennis racket.",
+    "A small boy with a birthday hat on holding a tennis racket.",
+    "A young boy in a birthday hat holds a tennis racquet",
+    "a little boy wearing a birthday hat and holding a tennis racket",
+    "A child holds a racket with a hat on his head."
+   ]
+  },
+  "val2017/000000206027.jpg": {
+   "pred": "A pizza sitting on a table with a beer and a glass of water.",
+   "refs": [
+    "A slice of pizza that is on top of a napkin.",
+    "a slice of pizza sitting on top of a table.",
+    "Someone ordered a piece of pizza for dinner that does not have much cheese on it",
+    "A piece of pizza with thousand island dressing and a Coke Zero on the side.",
+    "A slice of pizza with a swirl of sauce on top."
+   ]
+  },
+  "val2017/000000206135.jpg": {
+   "pred": "A group of cows standing in front of a building.",
+   "refs": [
+    "A herd of cattle sitting in front of a church with a steeple.",
+    "The view of four cows standing in a row from behind",
+    "Four cows stand in the parking lot of a church.",
+    "Four cow rears stand in front of a building with a steeple.",
+    "There are four cows standing on the side of a road"
+   ]
+  },
+  "val2017/000000210030.jpg": {
+   "pred": "A plate with a piece of cake on it.",
+   "refs": [
+    "A white plate with a slice of cake on top of it.",
+    "A piece of cake on a white plate with one bite taken.",
+    "A bite missing from a slice of cake that is on a plate.",
+    "A four layer cake on a plate with fork and one bite eaten",
+    "A decadent piece of cake that waits to be finished by its owner."
+   ]
+  },
+  "val2017/000000212800.jpg": {
+   "pred": "A group of people in a boat with umbrellas.",
+   "refs": [
+    "A crowd of people riding on the back of a red and white boat.",
+    "A small boat traveling in the water filled with people holding umbrellas.",
+    "A boat filled with many people all holding open umbrellas.",
+    "A boat in the water full of people holding umbrellas.",
+    "Several people holding umbrella's riding in a boat."
+   ]
+  },
+  "val2017/000000217872.jpg": {
+   "pred": "A person is doing a trick on a snowboard.",
+   "refs": [
+    "Woman snow boarding off of a cliff in the air.",
+    "A person doing a trick on a snowboard over a hill.",
+    "A snowboarder hitting a trick on a mountain.",
+    "a snowboarder in a black jacket is doing a trick",
+    "a person on a snow board flying in the air down the snow"
+   ]
+  },
+  "val2017/000000219283.jpg": {
+   "pred": "A stuffed bear is sitting on a pile of other stuffed animals.",
+   "refs": [
+    "A teddy bear sitting in front of a pile of boxes.",
+    "a big teddy bear sitting next to some boxes",
+    "a teddy bear next to four boxes on the floor",
+    "A teddy bear is sitting in front a group of boxes.",
+    "A teddy bear sitting on the ground in front of many boxes."
+   ]
+  },
+  "val2017/000000221155.jpg": {
+   "pred": "Two cows are standing in a field next to a small shed.",
+   "refs": [
+    "a couple of animals walking around a farm",
+    "Black and white photo of cows near a windmill, house and shed.",
+    "Two cow figures are standing in a yard.",
+    "Two cows are drinking under a small windmill.",
+    "Black and white photograph of cow statues in yard."
+   ]
+  },
+  "val2017/000000224664.jpg": {
+   "pred": "A group of people are flying kites on a beach.",
+   "refs": [
+    "A group of people flying kites on top of a sandy beach.",
+    "People are on the beach flying kites that look like arches in the sky.",
+    "people on a quiet beach playing with kites",
+    "Birds and Clouds roll over a sandy beach",
+    "People flying colorful kites on a deserted beach"
+   ]
+  },
+  "val2017/000000228144.jpg": {
+   "pred": "A room with a chair and a mirror on the wall.",
+   "refs": [
+    "A chair sitting in the middle of the room, in a black and white photo.",
+    "A room with chairs and a large mirror.",
+    "No one is in the room but there are chairs.",
+    "The bedroom is clean and ready for the guests to use.",
+    "Three chairs sitting in a room near a mirror."
+   ]
+  },
+  "val2017/000000229311.jpg": {
+   "pred": "A kitchen with a sink and a stove.",
+   "refs": [
+    "A stainless steel kitchen sink on a black granite countertop.",
+    "a kitchen with a sink on a counter top",
+    "a kitchen with a sink near a window",
+    "A kitchen area with a large stainless steel sink.",
+    "An empty kitchen sink underneath a window, on the counter."
+   ]
+  },
+  "val2017/000000230166.jpg": {
+   "pred": "A group of sheep standing in a field.",
+   "refs": [
+    "A herd of sheep grazing on a green grass covered piece of land next to a forest.",
+    "A flock of sheep, some numbered grazing in a grass field.",
+    "Many sheep grazing on grass in a field.",
+    "A flock of sheep eating grass in a field.",
+    "A herd of sheep grazing in a field."
+   ]
+  },
+  "val2017/000000231879.jpg": {
+   "pred": "A man and a woman are holding a child who is eating a cake.",
+   "refs": [
+    "A woman holding a birthday cake with one candle near a man with a baby in his lap.",
+    "A woman looks at a child being held by a man.",
+    "A baby who is being held by a man.",
+    "Woman carrying cake near man holding baby at outdoor celebration.",
+    "a person holding up a child with a cake"
+   ]
+  },
+  "val2017/000000232244.jpg": {
+   "pred": "An elephant is standing in a field with a banner on it.",
+   "refs": [
+    "An elegant with a red shawl draped on top of it.",
+    "An elephant draped with a colorful blanket wearing a decorative head piece.",
+    "The elephant is forced to wear the costume.",
+    "An elephant stands while wearing a colorful cloth.",
+    "An elephant walking draped with a colorful blanket."
+   ]
+  },
+  "val2017/000000248980.jpg": {
+   "pred": "A plate with a salad and a few vegetables on it.",
+   "refs": [
+    "A blue plate with a green salad on top of it.",
+    "We are looking at a plate full of salad.",
+    "A plate holds a large salad with broccoli.",
+    "There is a platter with a salad on white linen.",
+    "A plate of food sitting on a table, it appears to be a salad."
+   ]
+  },
+  "val2017/000000251065.jpg": {
+   "pred": "A toilet with a toilet seat and a toilet paper holder.",
+   "refs": [
+    "A black toilet in a tiled public bathroom stall.",
+    "A small tiled bethroom stall with a black toilet seat.",
+    "A toilet bowl with a black toilet seat cover",
+    "The small bathroom has a toilet with a black seat.",
+    "A white toilet with a black seat sitting in a small stall."
+   ]
+  },
+  "val2017/000000254016.jpg": {
+   "pred": "A person is making doughnuts in a commercial kitchen.",
+   "refs": [
+    "A row of doughnuts being passed through a fryer.",
+    "a conveyor belt with a lot of donuts getting fried up",
+    "A fryer has rows and rows of doughnuts on an assembly line.",
+    "a doughnut factory making doughnuts in oil",
+    "A machine that holds a lot of donuts and cooks them."
+   ]
+  },
+  "val2017/000000257896.jpg": {
+   "pred": "A man in a suit standing in front of a train.",
+   "refs": [
+    "a close up of a person wearing a suit and tie",
+    "A smiling man in a green suit and a hat.",
+    "A man in a hat is standing near train tracks.",
+    "a man with a hat standing close to the tracks",
+    "The guy is standing outside taking his picture in his suit."
+   ]
+  },
+  "val2017/000000263403.jpg": {
+   "pred": "A man is riding a wave on a surfboard.",
+   "refs": [
+    "A surfer flies off the crest of a wave.",
+    "A man riding a wave on a surfboard in the ocean.",
+    "A picture of a single surfer riding a large wave.",
+    "A surfer goes airborne on top of a wave in the ocean.",
+    "A surfer reaches the peak of a wave."
+   ]
+  },
+  "val2017/000000266768.jpg": {
+   "pred": "A group of people sitting around a picnic table.",
+   "refs": [
+    "a small cooler is on a wood table",
+    "A group of people sit at a picnic table in front of a house.",
+    "a group of people sitting at a picnic bench",
+    "A group of people sitting around a picnic table.",
+    "A group of people gather at a picnic table beneath a tree."
+   ]
+  },
+  "val2017/000000267434.jpg": {
+   "pred": "A herd of cows standing in a field.",
+   "refs": [
+    "A herd of cows are standing in a green field.",
+    "Several cows grazing in the field with a house in the background.",
+    "Cows and steers grazing in an old-English pasture.",
+    "A group of cows grazing in a grassy field.",
+    "A herd of cows are by a brick house."
+   ]
+  },
+  "val2017/000000273715.jpg": {
+   "pred": "A person is standing on a ski slope with a flag.",
+   "refs": [
+    "A couple of people with some skis in the snow.",
+    "A person on skis standing at a finish line.",
+    "three people are standing under the arch for a ski race",
+    "a skier is standing in the snow under a blue thing",
+    "The skier is happy to have won the race."
+   ]
+  },
+  "val2017/000000274219.jpg": {
+   "pred": "A man in a suit with a mustache and a beard.",
+   "refs": [
+    "An older man with a bow tie happily poses for a picture.",
+    "A man poses for a formal portrait in an historic photo.",
+    "A vintage photo of a man with curly hair and a mustache.",
+    "A man wearing a jacket and  a bow tie.",
+    "Talk about a bad hair day, his is frightful."
+   ]
+  },
+  "val2017/000000280891.jpg": {
+   "pred": "A child is holding a bunch of oranges.",
+   "refs": [
+    "A woman standing next to a young man near a pile of fruit.",
+    "A boy wearing a green shirt posing with some fruit.",
+    "A young boy with his hands on his face near some fruit.",
+    "A child with oranges and apples biting into one.",
+    "a person leaning on a bunch of oranges and apples"
+   ]
+  },
+  "val2017/000000288062.jpg": {
+   "pred": "A toilet with a toilet seat and a toilet paper holder.",
+   "refs": [
+    "A colorful toilet seat open in a toilet stall",
+    "A toilet that has a novelty toilet seat and lid.",
+    "A bathroom stall with a toilet decorated with an outdoor mountain lake theme.",
+    "A very cute toilet decorated with green woodlands style.",
+    "a toilet with an unusual green seat and back"
+   ]
+  },
+  "val2017/000000292082.jpg": {
+   "pred": "A man and a young girl sitting on a couch.",
+   "refs": [
+    "an old photo of a little girl sitting on her dads lap",
+    "A man with a little girl sitting on his lap.",
+    "A smiling man and a very cute small girl sitting together.",
+    "A little girl sitting on a man's lap in an old photograph.",
+    "A man and child pose for a picture together"
+   ]
+  },
+  "val2017/000000292446.jpg": {
+   "pred": "A man is eating pizza while sitting on a couch.",
+   "refs": [
+    "A man eating pizza without using his hands.",
+    "some people in an office and then male is eating pizza",
+    "A man eating pizza from pizza boxes on top of tables.",
+    "People sitting at a table with computers, pizza boxes, and chicken wings.",
+    "A man leaning his head in a box of pizza with some pizza in his mouth."
+   ]
+  },
+  "val2017/000000293324.jpg": {
+   "pred": "A group of airplanes are parked on a runway.",
+   "refs": [
+    "A group of large passenger jets parked in front of an airport.",
+    "Three Finnair planes are parked at the gates on this side of the terminal.",
+    "Several commercial planes sit on a runway next to an airport.",
+    "Multiple commercial passenger airplanes at their gate at an airport.",
+    "A group of planes near control tower in an airport."
+   ]
+  },
+  "val2017/000000296222.jpg": {
+   "pred": "A man is sitting at a table with a plate of food.",
+   "refs": [
+    "A man wearing sunglasses while holding a plate of pizza.",
+    "A man is sitting on a chair with some pizza.",
+    "A man eating food off of a plate",
+    "The young man is holding a plate of food.",
+    "A man is sitting in a hospital room with a piece of pizza on a plate."
+   ]
+  },
+  "val2017/000000297353.jpg": {
+   "pred": "A man is standing on a bed with a guitar on it.",
+   "refs": [
+    "A man standing on a purple bed playing an electric guitar",
+    "A MAN STANDING ON A BED PLAYING A GUITAR",
+    "The man is standing on a bed playing guitar.",
+    "a man standing on the bed while playing a guitar",
+    "A guy with a nice guitar standing on a bed."
+   ]
+  },
+  "val2017/000000298904.jpg": {
+   "pred": "A vase with a flower in it and a bottle of wine.",
+   "refs": [
+    "a glass fish bowl with rocks and weeds in it.",
+    "Rocks and plants displayed in water inside clear glass vase.",
+    "A plant floating in a water filled vase with some rocks.",
+    "An old fashion vase with flowers and rocks inside.",
+    "There is a vase filled with water that has rocks and a plant in it"
+   ]
+  },
+  "val2017/000000305609.jpg": {
+   "pred": "A table with a plate of food and a bowl of soup.",
+   "refs": [
+    "a table with many plates of food on top",
+    "A table that has several plates of breakfast food on it.",
+    "A table is covered in breakfast foods at a Waffle House.",
+    "A table full of plates of breakfast food.",
+    "Various plates of food that include hashbrowns, waffles and grits."
+   ]
+  },
+  "val2017/000000305695.jpg": {
+   "pred": "A herd of zebras are grazing in the grass.",
+   "refs": [
+    "Zebras are grazing on grass by a car.",
+    "Zebras are standing in a fenced in area.",
+    "A herd of zebras stand under tress near a road.",
+    "Several zebras are on the grass by a truck.",
+    "A bunch of zebras grazing near a road where vehicles are driving by."
+   ]
+  },
+  "val2017/000000309495.jpg": {
+   "pred": "A toilet in a bathroom with a sink and a shower.",
+   "refs": [
+    "A toilet that is in a bathroom with the lid up.",
+    "A roll of toilet paper sits next to a toilet.",
+    "An out of focus image of a toilet and toilet paper",
+    "a toilet sits next to a brick wall",
+    "A blurry photo of a toilet seat in a bathroom."
+   ]
+  },
+  "val2017/000000309655.jpg": {
+   "pred": "A person in a white jacket and black pants is standing on skis.",
+   "refs": [
+    "A woman is posing for a picture on the snowy mountain.",
+    "A woman smiling with glasses on standing in the snow with two poles.",
+    "A woman on skis in front of people on a slope.",
+    "A woman in a black jacket with skis on a slope.",
+    "A woman stands on skis on a snowy hill."
+   ]
+  },
+  "val2017/000000311190.jpg": {
+   "pred": "A dog wearing a red and white striped hat.",
+   "refs": [
+    "A dog wearing a hat while in a car.",
+    "A dog that is in a car with a hat.",
+    "A sleepy dog wearing a cowboy hat in the back seat of a car",
+    "A large brown dog wearing a brown hat.",
+    "A dog with a cowboy hat on its head."
+   ]
+  },
+  "val2017/000000314914.jpg": {
+   "pred": "A sign that says \"No Parking\" and \"No Parking\"",
+   "refs": [
+    "A two sign sitting on the side of a road.",
+    "A group of signs on a pole on a city street.",
+    "Several signs attached to a post detail regulations related to parking and other issues.",
+    "The signs describe which rules will be enforced.",
+    "there are many different signs on the same street pole"
+   ]
+  },
+  "val2017/000000318138.jpg": {
+   "pred": "A woman holding a Wii remote and a controller.",
+   "refs": [
+    "a girl is playing with a video game controller",
+    "A young person is playing with a video game controller.",
+    "A woman holding a Nintendo Wii game controller in her hand.",
+    "A girl playing Wii holding two remotes",
+    "A girl playing a video game with several other people nearby."
+   ]
+  },
+  "val2017/000000321214.jpg": {
+   "pred": "A child is eating a piece of cake on a plate.",
+   "refs": [
+    "A baby in plaid shirt eating a frosted cake.",
+    "The young is enjoying his cake so much its all over him.",
+    "A toddler eats cake with his hands in his high chair.",
+    "A toddler is getting messy while eating his cake.",
+    "Baby boy at the table eating cake frosting off his hand."
+   ]
+  },
+  "val2017/000000323496.jpg": {
+   "pred": "A young boy playing tennis on a court.",
+   "refs": [
+    "A young lad swings his Wilson tennis racquet.",
+    "A young man standing on a tennis court holding a racquet.",
+    "A young boy in a red shirt playing tennis.",
+    "A boy swinging a tennis racket at a ball on a court.",
+    "A LITTLE BOY PLAYING A GAME OF TENNIS"
+   ]
+  },
+  "val2017/000000326082.jpg": {
+   "pred": "A living room with a couch, a table, and a television.",
+   "refs": [
+    "A very nice living room that is very clean.",
+    "A big, open room with large windows and wooden floors.",
+    "A living room with a wooden floor filled with furniture.",
+    "THERE IS A LIVING ROOM WITH A TABLE AND TV",
+    "A living room with a couple of furniture."
+   ]
+  },
+  "val2017/000000326542.jpg": {
+   "pred": "A skier is skiing down a snowy slope.",
+   "refs": [
+    "there is a male skier going down a hill",
+    "this is a man skiing down a snowy slope",
+    "A person skiing down a mountain on a trail.",
+    "Skier with a red jacket on going down the side of a mountain.",
+    "a man riding skis down a snow covered slope."
+   ]
+  },
+  "val2017/000000329219.jpg": {
+   "pred": "A man is holding a dog while standing in a kitchen.",
+   "refs": [
+    "A man standing next to a dog on the ground.",
+    "A man is at a kitchen counter by a dog.",
+    "An man standing in a kitchen with a small puppy.",
+    "there is a small puppy on the kitchen floor",
+    "A man in the kitchen standing with his dog."
+   ]
+  },
+  "val2017/000000338428.jpg": {
+   "pred": "A red and white truck parked in a field.",
+   "refs": [
+    "An older pickup truck with decorative murals painted on.",
+    "an antique green pickup truck is parked in the grass.",
+    "Truck viewed from the back with vans and trucks visible in the background of the image.",
+    "A truck painted green with designs parked by other vehicles.",
+    "A photo of a green truck parked in grass."
+   ]
+  },
+  "val2017/000000340451.jpg": {
+   "pred": "A woman sitting on a bench with a book in her hand.",
+   "refs": [
+    "Man sitting on park bench waving and wearing water protective clothing.",
+    "a person sitting on a bench wearing some boots and yellow jacket",
+    "A man in a rain coat and rain boots sitting on a bench with his right hand up.",
+    "A man sitting on a bench wearing a yellow jacket.",
+    "A person in rubber boots and a rain coat seated on a bench."
+   ]
+  },
+  "val2017/000000340930.jpg": {
+   "pred": "A box of scissors, a pair of pliers, and a pair of tweezers.",
+   "refs": [
+    "Closeup of a cup holding scissors and other pens and pencils.",
+    "Scissors with orange handles are in a container with pens.",
+    "The orange handles of scissors are sticking out of a holder.",
+    "Some office supplies that have been grouped together.",
+    "the scissors sit in a containers with pens and markers"
+   ]
+  },
+  "val2017/000000343496.jpg": {
+   "pred": "A woman walking down the street in front of a red stop sign.",
+   "refs": [
+    "A person walking by stop sign at street intersection.",
+    "a woman walking by a stop sign while holding a bag",
+    "The Pleasant Lane street corner and a woman carrying bags",
+    "The woman who has bought her groceries is crossing the street.",
+    "A person walking near a stop sign in a residential neighborhood."
+   ]
+  },
+  "val2017/000000343937.jpg": {
+   "pred": "A woman in a red jacket is skiing down a hill.",
+   "refs": [
+    "A woman wearing a white hat and white coat snowboarding down a slope.",
+    "A girl in a white jacket is snowboarding down a slope.",
+    "A girl glides down a snowy hill on a snowboard.",
+    "a girl in a ski jacket and hat riding a snow board",
+    "A woman in white jacket snowboarding on snowy hill."
+   ]
+  },
+  "val2017/000000344611.jpg": {
+   "pred": "A road with a stop sign and a water sign.",
+   "refs": [
+    "A yellow hazard sign sitting on the side of a road.",
+    "A warning sign for high water is on the side of the road.",
+    "The sign is a good reminder that there is water on the pavement.",
+    "A Water on Pavement sign in a flooded area of a road.",
+    "a street sign mentioning water on the road"
+   ]
+  },
+  "val2017/000000344795.jpg": {
+   "pred": "A cake is being baked in a oven.",
+   "refs": [
+    "there is a round pan covered with aluminum in the stove",
+    "The oven contains a dish that is covered with tin foil.",
+    "A casserole covered in foil is inside an oven.",
+    "A dish covered in aluminum foil is baking in an oven.",
+    "a pot of food cooking in an oven"
+   ]
+  },
+  "val2017/000000350679.jpg": {
+   "pred": "A woman is cutting a cake for a wedding.",
+   "refs": [
+    "A newly married couple cutting up a  giant hot dog cake.",
+    "a nice couple cutting the cake besides many people",
+    "A bride and groom standing next to a table cutting their cake.",
+    "a newly married couple cutting their wedding cake",
+    "A bride and groom cut their wedding cake as others look on."
+   ]
+  },
+  "val2017/000000356248.jpg": {
+   "pred": "A woman is holding a baby while sitting at a table.",
+   "refs": [
+    "a man holding onto a little blond girl",
+    "A baby looking over a fathers shoulder watching other people eat.",
+    "A man with glasses holds a small child at a restaurant.",
+    "A man holding a baby girl while seated in a cafe.",
+    "He was holding the baby in his chair at the dining table."
+   ]
+  },
+  "val2017/000000356612.jpg": {
+   "pred": "A group of cows walking down the street.",
+   "refs": [
+    "Several black bulls are walking down the street.",
+    "The bulls are walking down the street in front of cars.",
+    "A herd of cows walking down a city street.",
+    "A group of cows walking in front of several cars.",
+    "A group of bulls riding on the street along with cars and buses and a man on a bike giving an girl a ride."
+   ]
+  },
+  "val2017/000000361571.jpg": {
+   "pred": "A dog wearing a hat and a red and white striped shirt.",
+   "refs": [
+    "A dog wearing a hat standing on some grass.",
+    "A white colored dog with it's mouth open and wearing a person's baseball style cap on it's head.",
+    "A dog in a field looking up while wearing a hat.",
+    "A dog looking up with mouth open and wearing a hat.",
+    "The large dog is wearing a human's cap on it's head."
+   ]
+  },
+  "val2017/000000368961.jpg": {
+   "pred": "A group of elephants are standing in a room.",
+   "refs": [
+    "Two mini elephants walking  toward people on a plank",
+    "Two elephants standing behind a rope in an enclosure",
+    "A couple of elephants standing next to each other.",
+    "Two large elephants waiting to enter their shelter.",
+    "Two elephants with a rubber ball are kept in the area with a little chain."
+   ]
+  },
+  "val2017/000000369771.jpg": {
+   "pred": "A plate with a sandwich, a bowl of soup, and a bowl of rice.",
+   "refs": [
+    "Arrows show what to do with the bowls of food.",
+    "A close up food in plastic containers with a blue plastic fork.",
+    "Two plastic containers sitting on top of a wooden table.",
+    "Two dishes of food and several blue arrows.",
+    "THERE IS SOME SORT OF VEGETABLES IN A BOWL"
+   ]
+  },
+  "val2017/000000376310.jpg": {
+   "pred": "A bathroom with a mirror and a sink in the middle.",
+   "refs": [
+    "A small bathroom with a mirror and sinks.",
+    "A rest room with three sinks and a well lighted mirror.",
+    "A nice lighted bathroom has three fancy sinks.",
+    "A bathroom with mirror, hand dryers, and multiple sinks.",
+    "A purple bathroom with three sinks and a purple countertop with a mirror surrounded with light bulbs."
+   ]
+  },
+  "val2017/000000377635.jpg": {
+   "pred": "A skateboarder is doing a trick on a ramp.",
+   "refs": [
+    "A person doing skateboard ticks at a skate park",
+    "Guy jumps high doing skateboard flip off a ramp",
+    "A person on a skate board is doing a trick.",
+    "A guy on a skate board high in the air.",
+    "A man riding a skateboard up the side of a ramp."
+   ]
+  },
+  "val2017/000000378116.jpg": {
+   "pred": "A man riding a wave on a surfboard.",
+   "refs": [
+    "A person riding a wave on top of a surfboard.",
+    "A man in a wet-suit surfing on a board.",
+    "A surfer wearing a wetsuit is riding a wave.",
+    "A male surfer enjoying surfing the ocean waves.",
+    "a person riding a surf board on a wave"
+   ]
+  },
+  "val2017/000000378244.jpg": {
+   "pred": "A man skiing down a snowy hill.",
+   "refs": [
+    "A person skiing down a slope next to snow covered trees.",
+    "A person in a ski suit skiing down a slope",
+    "Skier in a black going down the side of a mountain.",
+    "A skier skiing down a snow filled slope.",
+    "A person skis through some trees down a hill"
+   ]
+  },
+  "val2017/000000378605.jpg": {
+   "pred": "A donut on a plate with a cup of coffee.",
+   "refs": [
+    "A table with a napkin, doughnut on a plate, and a cup of coffee.",
+    "a donut with a cup of coffee and an ornate napkin holder",
+    "A white plate with a donut and napkin sculpture.",
+    "A donut is on the table on a white saucer.",
+    "A chocolate frosted donut on a plate with a cup of coffee and a penguin napkin holder."
+   ]
+  },
+  "val2017/000000380203.jpg": {
+   "pred": "A horse grazing in a field of grass.",
+   "refs": [
+    "A white horse is out eating in a field",
+    "A white horse is chewing ferns in a wooded valley",
+    "The white horse is standing beside tall plants.",
+    "A horse standing on top of a grass covered field.",
+    "a white horse grazing on some vegetation"
+   ]
+  },
+  "val2017/000000382111.jpg": {
+   "pred": "A man on a horse is riding down the street.",
+   "refs": [
+    "A man riding on the back of a brown horse.",
+    "Two people ride matching cream-colored horses at a gas station.",
+    "Two men are riding on horses at a gas station.",
+    "two young men on horseback at a gas station near some gas pumps and trucks",
+    "a teenager on a horse at a gas station."
+   ]
+  },
+  "val2017/000000382743.jpg": {
+   "pred": "Two kites are flying in the sky.",
+   "refs": [
+    "Many kites can be seen in the air through umbrellas.",
+    "Two kites, one with a smily face fly high in the sunny sky.",
+    "A few kites flying in the blue sky",
+    "Two kites flying in the sky over an open and closed umbrella.",
+    "Two kites flying directly overhead against a clear blue sky."
+   ]
+  },
+  "val2017/000000383606.jpg": {
+   "pred": "A bathroom with a sink and a mirror in it.",
+   "refs": [
+    "A blue corner sink with a man reflected in the above mirrors.",
+    "a bathroom with a sink and a mirror",
+    "A person taking a picture inside a bathroom with a blue sink and a brown door",
+    "Compact hotel bathroom with corner basin and mirrors.",
+    "A man holding a camera reflected in a bathroom mirror that sits above a sink and next to a door."
+   ]
+  },
+  "val2017/000000383842.jpg": {
+   "pred": "A woman is holding a remote control and a game controller.",
+   "refs": [
+    "A lady hold a game controller, pointed towards a laptop.",
+    "this lady is using controllers and those men are watching",
+    "Woman playing Nintendo Wii in font of business people in office",
+    "a lady that has  a wii remote in her hand",
+    "Several professionally dressed men watching a woman holding a Wii controller"
+   ]
+  },
+  "val2017/000000384661.jpg": {
+   "pred": "A stove and a microwave oven in a kitchen.",
+   "refs": [
+    "An oven with a stove, pots and utensils, and a refrigerator next to it.",
+    "The kitchen is clean and organized ready for us to use.",
+    "a silver oven sits next to other appliances",
+    "a stainless steel stove and oven with a shelf beside it",
+    "A silver oven that is next to some silver shelves."
+   ]
+  },
+  "val2017/000000391648.jpg": {
+   "pred": "A clock tower at night with a light shining on it.",
+   "refs": [
+    "A white clock tower next to a brown building at night.",
+    "A tower with a clock on it during the night.",
+    "A large white clock tower towering over a city.",
+    "A large clock tower lit up at night time near another building.",
+    "a clocktower standing high with lights on"
+   ]
+  },
+  "val2017/000000391722.jpg": {
+   "pred": "A man and a woman are holding a cake and a candle.",
+   "refs": [
+    "A man serving another man a cake with candles on it.",
+    "A man holding a cake with lit candles up to another man.",
+    "Man wearing red hoodie being presented with cake.",
+    "A man presents a cake with lit candles on it to a seated man.",
+    "A man is being handed a birthday cake with lit candles."
+   ]
+  },
+  "val2017/000000395575.jpg": {
+   "pred": "A wooden bench with a small dog on it.",
+   "refs": [
+    "THERE IS A BENCH IN FRONT OF TE LAKE",
+    "A bench in a green park overlooks a reflecting pool.",
+    "a bench sits between a pond and the tree line",
+    "View of a pond with reflection of the surrounding scenery, with a bench and statue surrounded with flowers and trees,",
+    "A picture full of water and some trees around."
+   ]
+  },
+  "val2017/000000397133.jpg": {
+   "pred": "A kitchen with a stove and a table with food on it.",
+   "refs": [
+    "A man is in a kitchen making pizzas.",
+    "Man in apron standing on front of oven with pans and bakeware",
+    "A baker is working in the kitchen rolling dough.",
+    "A person standing by a stove in a kitchen.",
+    "A table with pies being made and a person standing near a wall with pots and pans hanging on the wall."
+   ]
+  },
+  "val2017/000000397303.jpg": {
+   "pred": "Two men standing in front of a table with a lot of papers.",
+   "refs": [
+    "Two men sell ties at an outdoor market.",
+    "A man sitting in front of a computer on top of a desk.",
+    "Two men at a table under a tent selling neckties.",
+    "Street vendors shows off their selection of ties.",
+    "Two men at a table with ties sitting near a laptop."
+   ]
+  },
+  "val2017/000000402774.jpg": {
+   "pred": "A woman walking with an umbrella in the rain.",
+   "refs": [
+    "A woman holding an umbrella while walking in the rain.",
+    "A woman walking through the rain with an umbrella",
+    "A woman is walking down the street with an umbrella in tow.",
+    "a person walking in the rain holding an open umbrella",
+    "Lady walking on sidewalk in the rain with an umbrella over her head."
+   ]
+  },
+  "val2017/000000403353.jpg": {
+   "pred": "A bed with a lamp and a book on it.",
+   "refs": [
+    "A lamp sitting next to a small bed with a book on top of it.",
+    "A lamp shining light on a bed with a book on it.",
+    "A book sitting on a bed with a lamp next to it",
+    "Bedside with lamp, large bound book, and humidifier.",
+    "A bedroom with a book on the bed"
+   ]
+  },
+  "val2017/000000407646.jpg": {
+   "pred": "A man in a white shirt and black shorts is playing tennis.",
+   "refs": [
+    "A man playing tennis who is about to return a serve.",
+    "A tennis player sets his racket to hit the ball.",
+    "Tennis player swinging at tennis ball with racket",
+    "The look on the tennis player's face telegraphs a  possible error.",
+    "A man on a tennis court who has just hit the tennis ball"
+   ]
+  },
+  "val2017/000000407650.jpg": {
+   "pred": "A person is riding a snowboard on a snow covered mountain.",
+   "refs": [
+    "A man flying through the air while riding a snowboard.",
+    "A young person jumping their snow board in the air as they ski down a mountain.",
+    "a person jumping a snow board in the air",
+    "A person sailing in the air on a snow board.",
+    "A person is snowboarding off of a rock formation."
+   ]
+  },
+  "val2017/000000410878.jpg": {
+   "pred": "A motorcycle parked in a parking lot.",
+   "refs": [
+    "A parked motorcycle sitting on a dirty road.",
+    "A motorcycle parked on a gravel road near a park.",
+    "A motorcycle is parked on a gravel road.",
+    "A motorcycle parked in gravel near a post.",
+    "a close up of a motorcycle parked on a dirt road"
+   ]
+  },
+  "val2017/000000411530.jpg": {
+   "pred": "A group of people standing on a ski slope.",
+   "refs": [
+    "A crowd of people standing on snow covered ground.",
+    "some skiers are in a line for the chair lift",
+    "Skiers wait to take a lift up a snowy hill.",
+    "Many skiers are waiting to ride a chair lift.",
+    "A LOT OF PEOPLE ARE SKIING ON THE MOUNTAIN"
+   ]
+  },
+  "val2017/000000411665.jpg": {
+   "pred": "A cat looking into a mirror in a bathroom.",
+   "refs": [
+    "A cat playing with it's reflection in a mirror.",
+    "The kitten is pawing its own image while gazing into the hand mirror.",
+    "A cute cat is placing its paw on the mirror.",
+    "A white and gray kitten pokes its paw at a mirror and looks at its reflection.",
+    "A kitten is looking into a mirror and touching the mirror with one paw."
+   ]
+  },
+  "val2017/000000412531.jpg": {
+   "pred": "A parking meter with a sign that says \"No Parking\"",
+   "refs": [
+    "a single parking meter sitting next to some plants and a tree",
+    "Parking meter street side looking into a fenced parking lot.",
+    "A parking meter sitting next to an iron fence.",
+    "A parking meter in front of a fence and parking lot.",
+    "A parking meter in front of a fenced in car park."
+   ]
+  },
+  "val2017/000000414673.jpg": {
+   "pred": "A group of people playing baseball on a field.",
+   "refs": [
+    "A boy prepares to hit a ball at a baseball game.",
+    "Young boy swinging bat at a game with onlookers.",
+    "A little boy swinging a bat while adults watch.",
+    "a little boy in a blue shirt is playing baseball",
+    "Boys playing baseball, with one little boy at bat and parents watching."
+   ]
+  },
+  "val2017/000000416837.jpg": {
+   "pred": "A cow is grazing in a field with trees in the background.",
+   "refs": [
+    "A cow grazing on the side of a hill.",
+    "A brown cow grazing on grass on a mountain.",
+    "An animal grazing on a grassy hill near mountains.",
+    "A cow is standing on a grassy sloped hill.",
+    "A large brown cow standing on the side of a lush green hill."
+   ]
+  },
+  "val2017/000000417249.jpg": {
+   "pred": "A group of people walking through a airport baggage claim area.",
+   "refs": [
+    "A woman is carrying many packages in an office building",
+    "Adults in public area with luggage and carts near stairway.",
+    "A woman carrying luggage and many boxes in an airport.",
+    "A person carrying a large stack of luggage.",
+    "this is a woman pushing some luggage at the airport"
+   ]
+  },
+  "val2017/000000421455.jpg": {
+   "pred": "A dog is looking out the window of a car.",
+   "refs": [
+    "Guy takes a picture  of his dog in the backseat through his side mirror.",
+    "A person holds a phone in a car with the window rolled down",
+    "A person taking a picture with a cell phone of them and a dog in a mirror.",
+    "The woman is holding her phone toward the dog hanging out the car window.",
+    "Car with window down and dog sticking out while taking pictures"
+   ]
+  },
+  "val2017/000000426376.jpg": {
+   "pred": "A person on a snowboard is jumping off a snow covered hill.",
+   "refs": [
+    "A man riding a snowboard down the side of a snow covered slope.",
+    "A man snowboarding down the side of a snowy mountain.",
+    "Person snowboarding down a steep snow covered slope.",
+    "A person snowboards on top of a snowy path.",
+    "The person holds both hands in the air while snowboarding."
+   ]
+  },
+  "val2017/000000427649.jpg": {
+   "pred": "A sailboat is sailing in the water.",
+   "refs": [
+    "A small white boat sits on some calm water under a snow capped mountain.",
+    "A boat on a still lake in front of a mountain",
+    "a white boat on some water and some mountains",
+    "The boat sits in the lake below the mountain.",
+    "A lone boats sits on a lake that is adorned with mountainous reflections."
+   ]
+  },
+  "val2017/000000430961.jpg": {
+   "pred": "A baseball player is swinging a bat at a ball.",
+   "refs": [
+    "A baseball player preparing to throw a pitch during a game.",
+    "A man that is standing in the dirt with a glove.",
+    "A baseball player lunges and reaches back with the ball.",
+    "A baseball player pitching a baseball on top of a field.",
+    "A man in a Rays uniform is throwing a baseball"
+   ]
+  },
+  "val2017/000000431140.jpg": {
+   "pred": "A bathroom with a toilet and a sink.",
+   "refs": [
+    "A toilet and sink side by side in a bathroom and a mirror.",
+    "A bathroom with a sink, mirror, and toilet with handicap rail.",
+    "A toilet and sink that is in a bathroom.",
+    "A bathroom with a white toilet and a white sink and a mirror",
+    "A bathroom with sink, mirror, and toilet in it."
+   ]
+  },
+  "val2017/000000441491.jpg": {
+   "pred": "Two women are eating a pizza and laughing.",
+   "refs": [
+    "Three women are taking a bite out of the same piece of pizza.",
+    "Three beautiful young ladies eating one slice of pizza.",
+    "Two girls that appear to be sharing food while another looks on.",
+    "Three women simultaneously take a bite of pizza.",
+    "Three girls share a bite of pizza clowning for the camera."
+   ]
+  },
+  "val2017/000000442480.jpg": {
+   "pred": "A plane is parked on a runway with a light on it.",
+   "refs": [
+    "A turboprop airplane that is in the hangar for repair.",
+    "a twin propeller plane sits parked on a run way",
+    "THERE IS AN AIR PLANE THAT IS PARKED ON THE TARP",
+    "A prop plane parked at an airport with support vehicles around it.",
+    "an airplane parked in the dark on a runway"
+   ]
+  },
+  "val2017/000000446117.jpg": {
+   "pred": "A yellow apple sitting on a bench.",
+   "refs": [
+    "An orange on the middle of a park bench.",
+    "A ripe tangerine atop a worn wooden picnic table.",
+    "An orange is sitting by itself on the bench",
+    "An orange is sitting on top of a bench.",
+    "an orange sitting on top of a wooden table"
+   ]
+  },
+  "val2017/000000455157.jpg": {
+   "pred": "A man sitting on a bench with an umbrella.",
+   "refs": [
+    "Man sitting at a picnic table using a laptop shaded by an umbrella.",
+    "A man sitting at a picnic table using a computer shaded by an umbrella.",
+    "A man sitting at a wooden bench holding a grey umbrella.",
+    "The man with glasses is holding an umbrella and sitting at a picnic table.",
+    "A man sitting at a wooden bench and table with an open umbrella sitting on the table."
+   ]
+  },
+  "val2017/000000455981.jpg": {
+   "pred": "A toilet with a white toilet seat and a black toilet bowl.",
+   "refs": [
+    "A white toilet that does not have it's seat down.",
+    "A toilet sits in a small bathroom with a tile floor.",
+    "A toilet with some toilet paper and a plunger",
+    "A white toilet bowl with the lid up and seat down.",
+    "a close up of a toilet with its lid open"
+   ]
+  },
+  "val2017/000000460229.jpg": {
+   "pred": "A stop sign is on a street sign.",
+   "refs": [
+    "A red traffic stop sign with a blank white sign below it.",
+    "A red stop sign in front of a blue truck.",
+    "A red stop sign sitting next to a car under a traffic light.",
+    "a blue pickup truck stopped at a stop sign",
+    "There is a truck behind the stop sign."
+   ]
+  },
+  "val2017/000000468245.jpg": {
+   "pred": "A bed with a white comforter and a white pillow.",
+   "refs": [
+    "A white bed sitting in the corner of a room next to windows.",
+    "A slightly made/messy bed against the corner in a white room.",
+    "An unmade bed with pillows and a decorative head board.",
+    "A bedroom with large windows a ceiling fan and an unmade bed.",
+    "The unmade bed has three pillows on it."
+   ]
+  },
+  "val2017/000000472623.jpg": {
+   "pred": "A man riding a bicycle on a beach.",
+   "refs": [
+    "A young man riding a bike on top of a beach.",
+    "A bicyclist performs a wheelie near a rocky shore",
+    "A man balances his bicycle on one wheel",
+    "guy  with helmet on bicycle at beach",
+    "A man riding his bike of rock cliffs."
+   ]
+  },
+  "val2017/000000474039.jpg": {
+   "pred": "A baby wearing a pink shirt and a pink hat is sitting on a teddy bear.",
+   "refs": [
+    "A baby sitting in between to large stuffed animals.",
+    "A little baby sitting up surrounded by teddy bears.",
+    "A baby sitting in the middle of a bunch of teddy bears.",
+    "A baby snuggled between teddy bears while hands in mouth.",
+    "A baby sitting between big stuffed animals."
+   ]
+  },
+  "val2017/000000479155.jpg": {
+   "pred": "A group of people standing in a store.",
+   "refs": [
+    "Two young kids interacting in the grocery store produce section.",
+    "Two kids play in the fresh produce section of a busy grocery store.",
+    "Several people and a dog stand in front of a fruit stand.",
+    "A family shopping at a farmers marked with their dog.",
+    "people and a dog in a supermarket in the fruit section"
+   ]
+  },
+  "val2017/000000481413.jpg": {
+   "pred": "A little boy is holding a frisbee on the beach.",
+   "refs": [
+    "A small child is holding a frisbee while looking at the beach.",
+    "A toddler boy stands at the ocean's edge",
+    "A toddler is standing on the shore holding a Frisbee.",
+    "A very small boy on the beach with a disc.",
+    "Baby boy with Frisbee on beach near surf watching the waves."
+   ]
+  },
+  "val2017/000000481582.jpg": {
+   "pred": "A man and a woman are holding a horse.",
+   "refs": [
+    "a group of people are with a horse in a stable",
+    "A very big pretty horse and some people.",
+    "Three people are talking and laughing while in the stable with a horse.",
+    "There are people standing next to a horse.",
+    "Group of people in horse stall petting the horse"
+   ]
+  },
+  "val2017/000000482319.jpg": {
+   "pred": "A woman is holding a baby while a man is brushing her teeth.",
+   "refs": [
+    "A man and women who are looking at a small child.",
+    "A young boy holding a child on top of his lap.",
+    "A man and a woman playing with a baby.",
+    "a man holding a kid and a mother smilling",
+    "a man and woman play with a small child"
+   ]
+  },
+  "val2017/000000484760.jpg": {
+   "pred": "A statue of a woman with a crown on her head.",
+   "refs": [
+    "A statue of the virgin Mary holding an orb of light.",
+    "A statue that is in front of a building.",
+    "Statue and old buildings shot at an angle.",
+    "A statue of a woman holding a ball stands in front of the old church.",
+    "That looks like a statue of the Virgin Mary beside the church."
+   ]
+  },
+  "val2017/000000485844.jpg": {
+   "pred": "A woman is cooking in a kitchen with a stove.",
+   "refs": [
+    "a lady that has a bowl in her hand",
+    "This older photo depicts a woman working in a primitive kitchen.",
+    "A housewife holds a platter of food in the kitchen.",
+    "An old photo of a woman in the kitchen",
+    "The woman is placing a turkey into a black pan."
+   ]
+  },
+  "val2017/000000492758.jpg": {
+   "pred": "A woman is sitting on a couch in a room with a fireplace.",
+   "refs": [
+    "An older person sitting in a living room chair near a walker.",
+    "Living room arrangement with lights and windows and chairs",
+    "A person sits in a chair in a living room next to some windows.",
+    "A living room with windows, chairs, table, lamps, and a person sitting in a chair with a walker beside it.",
+    "a living room that has a couple of chairs in it"
+   ]
+  },
+  "val2017/000000493864.jpg": {
+   "pred": "A man in a red shirt is standing on a surfboard.",
+   "refs": [
+    "A man standing on a wet beach holding a blue board.",
+    "A smiling surfer standing on the beach with his board",
+    "A man in a wet suit holding a surf board with another person in the back ground near the ocean holding a surf board also.",
+    "a man holding onto a surfboard while standing on the beach",
+    "A man in a wetsuit carries a surfboard on the beach."
+   ]
+  },
+  "val2017/000000498032.jpg": {
+   "pred": "A young girl holding a remote control and pointing at the screen.",
+   "refs": [
+    "A person standing in a room with a remote.",
+    "A woman plays a video game with a controller.",
+    "A somber woman in a pink T-shirt raises a torch.",
+    "A woman holding a Wii controller in the air.",
+    "a woman in a pink top with a video game controller"
+   ]
+  },
+  "val2017/000000502336.jpg": {
+   "pred": "A group of people walking down a street.",
+   "refs": [
+    "A group of people walking down a street next to a tall building.",
+    "Black and white photograph of people walking on a street.",
+    "A group of ladies walking down a street",
+    "The passersby ignore the sign for the Canon Chinese restaurant.",
+    "Pedestrians walking on cobbled sidewalk past multiple storefronts.."
+   ]
+  },
+  "val2017/000000504589.jpg": {
+   "pred": "A man and a woman are playing with a frisbee on a beach.",
+   "refs": [
+    "Two people are playing in sand with a frisbee.",
+    "Two friends throwing a frisbee on a sandy lot.",
+    "Couple playing Frisbee on the beach in summer",
+    "A woman in a yellow shirt is about to catch a white frisbee.",
+    "A young lady and a young man playing frisbee on the sand."
+   ]
+  },
+  "val2017/000000507473.jpg": {
+   "pred": "A woman is looking in a mirror and brushing her teeth.",
+   "refs": [
+    "A girl is taking a selfie while brushing her teeth.",
+    "In bathroom taking selfie of herself brushing teeth.",
+    "A woman taking a picture of herself while brushing her teeth",
+    "A woman brushing her teeth while taking a selfie",
+    "A woman brushing her teeth while taking a picture of herself"
+   ]
+  },
+  "val2017/000000508602.jpg": {
+   "pred": "A bird is sitting on the top of a car.",
+   "refs": [
+    "Bird standing on car roof near covered pavilion.",
+    "A small crane stands on the roof of a car in a city area.",
+    "The white bird is standing on the roof of a car.",
+    "a close up of a bird on top of a parked car",
+    "A bird is standing on top of a car."
+   ]
+  },
+  "val2017/000000509656.jpg": {
+   "pred": "A zebra standing in a field with some trees in the background.",
+   "refs": [
+    "A zebra standing in tall grass near a building.",
+    "A zebra in the shade on a sunny day",
+    "There is a zebra in his habitat at the zoo.",
+    "A zebra standing in a grassy area with a building far behind it.",
+    "a zebra standing in the foreground  and another zebra standing behind"
+   ]
+  },
+  "val2017/000000513688.jpg": {
+   "pred": "A laptop computer is on a desk with a chair.",
+   "refs": [
+    "A chair next to a desk with a laptop and phone sitting on it.",
+    "A work area with a laptop computer and phone.",
+    "A desk set up as a workstation with a laptop",
+    "a desk with a laptop with a mouse and phone",
+    "A chair next to a table that has electronic items on it."
+   ]
+  },
+  "val2017/000000514914.jpg": {
+   "pred": "A bathroom with a sink and toilet.",
+   "refs": [
+    "a fancy bathroom with some tile walls",
+    "A bathroom not being used contains a toilet, sink, shower and bathtub.",
+    "A modern bathroom with a large bathtub and walk in shower.",
+    "Modern looking bathroom featuring a bathtub, shower, sink and toilet",
+    "a modern day bathroom set up with wooden sink"
+   ]
+  },
+  "val2017/000000516708.jpg": {
+   "pred": "A street sign with a red and white cross on it.",
+   "refs": [
+    "A street sign that reads Sparta sitting next to a tall building.",
+    "Store signs on the outside of stores in a downtown area.",
+    "Street signs and traffic lights on a city street",
+    "Sparta street sign hanging on a lamp in a street.",
+    "The business and street signs are clearly visible."
+   ]
+  },
+  "val2017/000000519208.jpg": {
+   "pred": "A man with an elephant standing in front of him.",
+   "refs": [
+    "a man standing next to an elephant next to his trunk",
+    "A smiling man in green next to a large elephant.",
+    "A smiling man standing very close to a cute elephant.",
+    "A man in a green shirt is standing next to an elephant.",
+    "A man standing next to an elephant smiling"
+   ]
+  },
+  "val2017/000000520871.jpg": {
+   "pred": "A pizza sitting on a table with a glass of water.",
+   "refs": [
+    "A pizza with burned edges is sitting on the table.",
+    "there is a large pizza pie on a white plate",
+    "A pizza on a plate on a table with wine.",
+    "a pizza sitting on a plate next to a little jar on a table",
+    "A pizza is topped with fine cheese and backed in a oven"
+   ]
+  },
+  "val2017/000000524108.jpg": {
+   "pred": "A group of motorcycles are lined up in a row.",
+   "refs": [
+    "Several motorcycles are stacked together side by side.",
+    "There is a group of motorcycles that are parked together.",
+    "A large number of chrome motorcycles parked together.",
+    "A street with many motor bikes parked together.",
+    "Motorycles parked and lined up beside each other"
+   ]
+  },
+  "val2017/000000531134.jpg": {
+   "pred": "A group of people are standing in front of a traffic light.",
+   "refs": [
+    "A traffic light with a sad face on the red light.",
+    "A traffic light with an orange and a red having faces drawn on them.",
+    "A traffic light has sad faces on the lights.",
+    "A traffic light with a frowning face on the red light and a city street and buildings behind it.",
+    "A traffic light with little faces to help people know what to do."
+   ]
+  },
+  "val2017/000000531135.jpg": {
+   "pred": "A baseball player is swinging a bat at a baseball.",
+   "refs": [
+    "A group of men on a field playing baseball.",
+    "A baseball game is being played before a crowd.",
+    "A baseball pitcher throws the ball as the batter prepares to swing.",
+    "Looking through the safety net, baseball player getting ready to hit the ball.",
+    "Baseball players on the field are competing during a game."
+   ]
+  },
+  "val2017/000000534639.jpg": {
+   "pred": "A train is passing by a train station.",
+   "refs": [
+    "A modern train running on tracks near a station.",
+    "A large long white train at a station.",
+    "A public transit train at one of its stations.",
+    "A white train traveling down the tracks with expo center on a sign on the front.",
+    "The metro train is painted white with blue lettering."
+   ]
+  },
+  "val2017/000000542856.jpg": {
+   "pred": "A bus is parked in front of a building.",
+   "refs": [
+    "a public transportation bus with an advertisement on the side",
+    "A large white bus on a city street.",
+    "a public transit bus on a city street",
+    "A city bus carrying ads featuring women coming to town.",
+    "A bus is going down the street and it has an advertisement on the side of it."
+   ]
+  },
+  "val2017/000000545730.jpg": {
+   "pred": "A herd of zebras swimming in a river.",
+   "refs": [
+    "a herd of zebras crossing a shallow part of a river",
+    "A herd of zebra crossing a river with trees in the background.",
+    "A herd of zebra crossing a river near a forest.",
+    "A group of zebras are crossing a stream.",
+    "Some black and white zebras crossing a shallow stream."
+   ]
+  },
+  "val2017/000000546823.jpg": {
+   "pred": "A group of horses and people walking in a park.",
+   "refs": [
+    "a small pony a with two smaller ponies standing in front of it",
+    "The city is very busy today with foot traffic.",
+    "This shows a view from across a courtyard in a city in a tropical location.",
+    "A CROWD OF PEOPLE OUTSIDE STANDING IN FRONT OF A BUILDING",
+    "A dog is next to a tree and a bunch of people are walking up to colored umbrellas and some have rested under a tree."
+   ]
+  },
+  "val2017/000000550426.jpg": {
+   "pred": "A vase of flowers with a bird in the background.",
+   "refs": [
+    "A vase filled with red and white flowers on top of a table.",
+    "A tall vase with red and white tulips in water.",
+    "Bunch of flowers sitting in vase filled with water and rocks on bottom",
+    "A vase is filled with a bouquet of tulips.",
+    "A vase of flowers on a dining table."
+   ]
+  },
+  "val2017/000000550939.jpg": {
+   "pred": "A street sign with a green and yellow sign on it.",
+   "refs": [
+    "A green street sign sitting on top of a pole.",
+    "An intersection with two street signs near a palm tree.",
+    "Street sign at the corner of Ho'ohu and Pe'e roads on Kauai",
+    "Two street signs are sitting under power lines and a palm tree.",
+    "A street sign with a palm tree and blue skies behind it."
+   ]
+  },
+  "val2017/000000555050.jpg": {
+   "pred": "A street with a car and a cow in the middle of the street.",
+   "refs": [
+    "A car driving in an intersection, past a furniture shop.",
+    "A car in front of a furniture shop with a cow.",
+    "A small compact car driving past a furniture store.",
+    "A street scene with a car passing by.",
+    "a shop a car traffic lights and buildings"
+   ]
+  },
+  "val2017/000000555705.jpg": {
+   "pred": "Two cats are sitting on a pair of shoes.",
+   "refs": [
+    "Two cats sitting on top of a pair of shoes.",
+    "Two cats are outside and perched on someone's sneakers.",
+    "Two cats are sitting on a pair of shoes outdoors.",
+    "Two striped cats lying with two sneakers on a ledge.",
+    "Orange and brown cat sitting on top of white shoes."
+   ]
+  },
+  "val2017/000000563349.jpg": {
+   "pred": "A man is flying a kite in the air.",
+   "refs": [
+    "A person on a board holding a para sail rope over a snow field.",
+    "a person using a parachute with a wake board",
+    "A person up in the air on a snowboard.",
+    "A person that is jumping in the sky on a snowboard.",
+    "A snowboarder is flying in the air over snow."
+   ]
+  },
+  "val2017/000000567197.jpg": {
+   "pred": "A truck and a car are parked in front of a building.",
+   "refs": [
+    "an old black and white photo of cars parked near a building",
+    "Trucks are parked outside of a market building.",
+    "An old picture of a building and trucks outside the building.",
+    "There are two old trucks parked next to the building.",
+    "A very tall building with trucks parked in front of it."
+   ]
+  },
+  "val2017/000000571313.jpg": {
+   "pred": "A kitchen with a refrigerator, microwave, and a sink.",
+   "refs": [
+    "A small room with different types of furniture and appliances that it makes it hard to tell what type of room it is.",
+    "A small fridge in a efficiency hotel room",
+    "A computer is on a desk across from a bed.",
+    "The working and kitchen area of a dorm room",
+    "A make shift office space in a bedroom."
+   ]
+  },
+  "val2017/000000577584.jpg": {
+   "pred": "A microwave oven with a microwave and a sink.",
+   "refs": [
+    "A large white bowl sits on a slide out shelf under a microwave.",
+    "A stoneware container on a pull out shelf in front of a microwave.",
+    "A tray extends from below a microwave where a dish sits.",
+    "A dish in front of a toaster oven.",
+    "A microwave has a little board coming out from underneath."
+   ]
+  },
+  "val2017/000000577976.jpg": {
+   "pred": "A large truck is parked in front of a building.",
+   "refs": [
+    "A utility truck is parked in the street beside traffic cones.",
+    "A street with orange cones and a work truck on it.",
+    "Traffic cones at the entrance of a lot where there is construction.",
+    "A construction truck is in front of the huge building.",
+    "a bunch of orange cones sitting in the road"
+   ]
+  }
+ },
+ "metrics_shuffled_images": {
+  "BLEU-1": 0.39545229856628994,
+  "BLEU-4": 0.026116386424557103,
+  "ROUGE-L": 0.29660846355073106,
+  "CIDEr": 0.0473474977823048,
+  "unique_caption_ratio": 0.965,
+  "avg_words": 10.115
+ }
+}
